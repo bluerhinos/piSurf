@@ -1,5 +1,5 @@
 # piSurf
-A cluster of Pies that can surf the web - A project suggest by Chris at Crosstalk Solutions
+A cluster of Pies that can surf the web - A project suggested by Chris at Crosstalk Solutions
 
 ## Plan
 - [ ] Ansible to install the device
