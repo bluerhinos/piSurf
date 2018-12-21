@@ -1,0 +1,9 @@
+- name: Build a piSurf node
+  hosts: all
+  become: true
+  roles:
+    - vagrant
+    - chromium
+    - nodejs
+  vars_files:
+    - vars/main.yml

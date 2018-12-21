@@ -1,0 +1,5 @@
+
+nodejs_version: "11.x"
+npm_config_unsafe_perm: "true"
+nodejs_npm_global_packages:
+  - name: puppeteer

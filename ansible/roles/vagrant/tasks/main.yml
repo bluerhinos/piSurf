@@ -1,0 +1,7 @@
+---
+
+- name: Install Packages
+  apt:
+    name: ['aptitude']
+    state: present
+    cache_valid_time: 3600
